@@ -1,2 +1,2 @@
-here is the sample text 
-you can change it on github as well 
+here is the TEXT and its a sample 
+you can change it on github as well
